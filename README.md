@@ -4,6 +4,6 @@ Install openpyxl using pip.
 
   $ pip install openpyxl
 
-To RUn
+To Run
 
   python .\readExcel.py
